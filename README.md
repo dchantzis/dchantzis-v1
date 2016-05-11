@@ -27,8 +27,8 @@ It also helped my work to get noticed and landed me a couple job proposals.
 - <https://github.com/dchantzis>
 
 ## Screenshots
-![Image 1](http://dchantzis-v1.nfshost.com/files/screenshots/screenshot-1.png)
+![Image 1](http://dchantzis-v1.nfshost.com/files/screenshots/screenshot-1.jpg)
 
-![Image 2](http://dchantzis-v1.nfshost.com/files/screenshots/screenshot-2.png)
+![Image 2](http://dchantzis-v1.nfshost.com/files/screenshots/screenshot-2.jpg)
 
-![Image 3](http://dchantzis-v1.nfshost.com/files/screenshots/screenshot-3.png)
+![Image 3](http://dchantzis-v1.nfshost.com/files/screenshots/screenshot-3.jpg)
