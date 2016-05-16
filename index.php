@@ -108,7 +108,7 @@ div#sidebar {
             	<div id='inkstain03'></div>
                 <div id='cvtext'>
                 	you can download my c.v. from
-                    <a href='http://dchantzis-v4.nfshost.com/dimitrios_chantzis_resume.pdf' class='secnavi' title='English C.V.' target='_blank'>here</a><span class='language'><sup>(english)</sup></span>
+                    <a href='http://dchantzis-v4.nfshost.com/dimitrios_chantzis_resume.pdf' class='secnavi' title='English C.V.' target='_blank'>here</a><span class='language'></span>
                 </div>
                 <div id='gotohome'><a href='#homesectionanchor' class='secnavi' title='Go to Home'>back</a></div>
                 <div id='gotowork'><a href='#worksectionanchor' class='secnavi' title='Go to My Work'>next</a></div>
